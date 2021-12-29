@@ -1,0 +1,3 @@
+hello worldHere is the result: this is FIRST file, this is SECOND file
+ Here is the result: this is FIRST file, this is SECOND file
+  Here is the result: this is FIRST file, this is SECOND file
